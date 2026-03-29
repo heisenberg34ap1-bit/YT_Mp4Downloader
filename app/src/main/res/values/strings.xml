@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MP4 Downloader</string>
+    <string name="title_text">MP4 Downloader</string>
+    <string name="body_text">直接 MP4 リンク、または YouTube の URL を入力してダウンロードします。</string>
+    <string name="url_hint">https://example.com/video.mp4</string>
+    <string name="download_button">ダウンロード開始</string>
+    <string name="note_text">開始前に保存場所とファイル名を選べます。YouTube は MP4 を優先し、なければ取得可能な動画形式で保存します。</string>
+    <string name="download_description">動画ファイルをダウンロードしています</string>
+    <string name="download_started">ダウンロードを開始しました</string>
+    <string name="download_started_named">ダウンロードを開始しました: %1$s</string>
+    <string name="download_completed_named">ダウンロードが完了しました: %1$s</string>
+    <string name="download_cancelled">保存先の選択をキャンセルしました</string>
+    <string name="error_empty_url">URL を入力してください</string>
+    <string name="error_invalid_url">有効な HTTP/HTTPS URL を入力してください</string>
+    <string name="error_not_mp4">直接ダウンロードできる MP4 URL か YouTube URL のみ対応しています</string>
+    <string name="error_no_video_stream">利用できる動画ストリームが見つかりませんでした</string>
+    <string name="error_extraction_failed">動画情報の取得に失敗しました: %1$s</string>
+    <string name="error_download_failed">ダウンロードに失敗しました: %1$s</string>
+    <string name="error_unknown">不明なエラー</string>
+</resources>
